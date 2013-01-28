@@ -1,0 +1,14 @@
+8a93eee97f8d77c66e07d570f9439177 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+c99db37e031e32d85a522d1f3bfe151f *R/SUE-internal.R
+944dd15db52daa9dc5ab5e9ff594652f *R/SUE.fitted.values.R
+7a2b0871769b1a54ad23331a8c1e458b *R/SUE.lm.R
+80426ba17a2eb4c524c4e8c25e6fc498 *R/SUE.plot.R
+d7244c1b401d91e5c5ec897a846e92b0 *R/SUE.residuals.R
+83a798e8d9483dc248d6608c5bd1409f *R/parameters.R
+aa6c1b53844aa541c9afacec1ea045bc *man/SUE-package.Rd
+51902c2ef356279b21f78afabfc8b186 *man/SUE.fitted.values.Rd
+50c160741173d316667ddda71f8f6a19 *man/SUE.lm.Rd
+8744d9f1b2f962613cf737d46bf242ea *man/SUE.plot.Rd
+27665393b2bcc729d689ad818d172c21 *man/SUE.residuals.Rd
+eb1872b8ab58fd608e9aa8a6d3c8806e *man/parameters.Rd
